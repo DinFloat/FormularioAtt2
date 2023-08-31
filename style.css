@@ -1,0 +1,22 @@
+body{
+    background: #859dc2;
+    margin: 0;
+    font-family: "";
+}
+
+.divMae{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.divCard{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 10px 15px;
+    background: #6f8fbe;
+    border-radius: 1px;
+}
