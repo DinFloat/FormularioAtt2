@@ -20,3 +20,13 @@ body{
     background: #6f8fbe;
     border-radius: 1px;
 }
+
+.divTitle{
+    width: 80%;
+    height: ;
+    display: flex;
+}
+
+.divTitle img{
+    width: 40px;
+}
