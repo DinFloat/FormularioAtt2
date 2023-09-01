@@ -22,9 +22,9 @@ body{
 }
 
 .divTitle{
-    width: 80%;
-    height: ;
+    margin-bottom: 3rem;
     display: flex;
+    justify-content: space-between;
 }
 
 .divTitle img{
